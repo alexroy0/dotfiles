@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = roy.amsellem.alexandre@gmail.com
+	name = alexandre roy
